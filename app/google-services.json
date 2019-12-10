@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126791468260",
+    "firebase_url": "https://expenses-calculator-c91d9.firebaseio.com",
+    "project_id": "expenses-calculator-c91d9",
+    "storage_bucket": "expenses-calculator-c91d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126791468260:android:a29e21a30df0a9a73f58f1",
+        "android_client_info": {
+          "package_name": "com.example.expensescalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126791468260-676hehtssrae2p10bmbgsk7m6jlo4hdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensescalculator",
+            "certificate_hash": "438cd59eb4e4c47e15d59297e95bdca384af9a67"
+          }
+        },
+        {
+          "client_id": "126791468260-9uk89gbq1vivc7g32pr2k5b619v5s2j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyo3PK9GrSLfqcsSphvor1aKmxMa95rss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126791468260-9uk89gbq1vivc7g32pr2k5b619v5s2j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
